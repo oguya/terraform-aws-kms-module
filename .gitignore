@@ -1,6 +1,9 @@
 #  Local .terraform directories
 **/.terraform/*
 
+# for the soft bois who don't vim
+.idea/
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
